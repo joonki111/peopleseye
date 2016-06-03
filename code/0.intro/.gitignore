@@ -1,0 +1,8 @@
+/target/
+*.class
+[Tt]humbs.db
+.DS_Store
+.settings/
+.classpath
+.project
+/bin/
